@@ -1,0 +1,38 @@
+id: I9F2924B1
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:58:46.316370'
+last_modified: '2022-06-19T00:58:46.316385'
+parser: null
+source_metadata:
+  title: Hevajra Abhisamaya by Chos rgyal Phags pa (1235–1280), block print, colophon
+    excerpt
+  author: phags pa blo gros rgyal mtshan/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-06-24); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/944
+  bases:
+    7b8b:
+      title: Hevajra Abhisamaya by Chos rgyal Phags pa (1235–1280), block print, colophon
+        excerpt
+      order: 1
+      base_file: 7b8b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
